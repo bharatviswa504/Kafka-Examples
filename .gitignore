@@ -1,0 +1,5 @@
+*classes
+target/
+build/
+.idea/
+Kafka-Examples.iml
